@@ -44,3 +44,4 @@ Perquisite required-
 9. matplotlib: The summary generation script (`5.summarize_result.py`) uses `matplotlib` for generating coverage plots. Install `matplotlib` in your Python environment. It can be installed using `pip` or `conda`.
 
 Make sure to install the necessary dependencies and ensure that all required tools are properly installed and accessible in your system's PATH before running the scripts.
+For detail usage guidance refer to WiKi page
